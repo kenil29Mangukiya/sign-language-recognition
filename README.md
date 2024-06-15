@@ -1,1 +1,3 @@
 # sign-language-recognition
+
+#This project aims to develop a system for real-time recognition of American Sign Language (ASL) gestures using computer vision and machine learning. The system utilizes a webcam to capture hand gestures, which are then processed using deep learning techniques for feature extraction and classification. Key challenges include robustness to varying lighting conditions and background noise, as well as the need for accurate gesture recognition to facilitate communication for the hearing impaired. Evaluation metrics such as accuracy, precision, and recall will be used to assess the performance of the proposed system.
